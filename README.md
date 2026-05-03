@@ -62,6 +62,8 @@ Ideally, please use GitHub issues for this, with the best method achieved by set
 
 -   (o0Shojo0o) change UI to JSONConfig
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 
 MIT License
