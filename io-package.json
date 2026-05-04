@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "adguard",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "news": {
+      "1.2.0": {
+        "en": "Adapter requires node.js >= 22 now\nAdapter requires admin >= 7.7.22 now\nDependencies have been updated.",
+        "de": "Adapter benötigt node.js >= 22 jetzt\nAdapter benötigt admin >= 7.7.22 jetzt\nAbhängigkeiten wurden aktualisiert.",
+        "ru": "Адаптер требует node.js >= 22 сейчас\nАдаптер требует администратора >= 7.7.22\nЗависимости были обновлены.",
+        "pt": "Adaptador requer nod.js >= 22 agora\nAdaptador requer admin >= 7.7.22 agora\nAs dependências foram atualizadas.",
+        "nl": "Voor de adapter zijn node.js < 22 nu nodig\nAdapter vereist admin < 7.7.22 nu\nAfhankelijkheden zijn bijgewerkt.",
+        "fr": "Adaptateur nécessite node.js >= 22 maintenant\nAdaptateur nécessite admin >= 7.7.22 maintenant\nLes dépendances ont été actualisées.",
+        "it": "Adattatore richiede node.js >= 22 ora\nAdattatore richiede admin >= 7.7.22 ora\nLe dipendenze sono state aggiornate.",
+        "es": "Adaptador requiere node.js ю= 22 ahora\nEl adaptador requiere administrador= 7.7.22 ahora\nSe han actualizado las dependencias.",
+        "pl": "Adapter wymaga node.js > = 22\nAdapter wymaga admin > = 7.7.22\nZaktualizowano zależność.",
+        "uk": "Адаптер вимагає node.js >= 22 тепер\nАдаптер вимагає адмін >= 7.7.22 тепер\nОновлено залежність.",
+        "zh-cn": "适配器需要节点.js 现在22\n适任者需要管理员 \\ 7.7.22 现在\n附属关系已经更新."
+      },
       "1.1.1": {
         "en": "Dependencies have been updated.",
         "de": "Abhängigkeiten wurden aktualisiert.",
@@ -80,19 +93,6 @@
         "pl": "lepsza obsługa rozładunku",
         "zh-cn": "更好的卸载处理",
         "uk": "краще розвантаження"
-      },
-      "0.0.6": {
-        "en": "more resource-efficient handling of the States\nbetter unload handling",
-        "de": "ressourceneffizienterer Umgang mit den Staaten\nbesseres Entladehandling",
-        "ru": "более ресурсоэффективное управление штатами\nлучшая разгрузка",
-        "pt": "manejo mais eficiente dos recursos dos Estados\nmelhor manuseio de descarga",
-        "nl": "meer hulpbronnenefficiënte behandeling van de staten\nbetere losbehandeling",
-        "fr": "une gestion plus efficace des ressources des États\nmeilleure gestion du déchargement",
-        "it": "gestione degli Stati più efficiente sotto il profilo delle risorse\nmigliore gestione dello scarico",
-        "es": "manejo más eficiente de los recursos de los Estados\nmejor manejo de descarga",
-        "pl": "bardziej zasobooszczędna obsługa państw\nlepsza obsługa rozładunku",
-        "zh-cn": "更高效地处理各州\n更好的卸载处理",
-        "uk": "більш ефективне поводження з державами\nкраще розвантаження"
       }
     },
     "titleLang": {

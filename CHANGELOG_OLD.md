@@ -1,4 +1,10 @@
 # Older changes
+## 0.0.8 (2021-08-18)
+
+-   (o0Shojo0o) change UI to JSONConfig
+
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## 0.0.7 (2021-08-01)
 
 -   (o0Shojo0o) better unload handling
